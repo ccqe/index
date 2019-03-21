@@ -1544,7 +1544,8 @@ audio{
     top: 0;
     opacity: 0.5;
     -webkit-transition: all 2s;
-    transition: all 2s;
+	transition: all 2s;
+	max-width: 100%;
 }
 audio:hover{
     opacity: 1;
@@ -2355,6 +2356,9 @@ address {
 		width: 100%;
 		width: 20%;
 		margin: 0;
+	}
+	audio {
+		display: none;
 	}
 	.navbar-default .navbar-toggle {
 		border-color: #ffffff;
