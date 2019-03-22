@@ -956,12 +956,12 @@ h4.modal-title {
 
 .agilepackagesw3l {
 	padding: 100px 0;
-	background: -webkit-linear-gradient(#f2f2b0, #eebbcb);
-	background: -moz-linear-gradient(#f2f2b0, #eebbcb);
-	background: linear-gradient(#f2f2b0, #eebbcb);
+	background: -webkit-linear-gradient(#eaf4fc, #e6cde3);
+	background: -moz-linear-gradient(#eaf4fc, #e6cde3);
+	background: linear-gradient(#eaf4fc, #e6cde3);
 }
 .agilepackagesw3l h3, .agilecontactw3ls h3 {
-	color: #FFF;
+	color: #666666;
 }
 
 .item {
@@ -975,14 +975,14 @@ h4.modal-title {
 	font-weight: 100;
 	font-size: 22px;
 	margin: 20px 0 30px;
-	color: #949495;
+	color: #666;
 }
 
 .agilepackagesw3l h5 {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 40px;
 	font-weight: 700;
-	color: #f8e58c;
+	color:  #949495;
 	margin-bottom: 40px;
 }
 
@@ -990,7 +990,7 @@ h4.modal-title {
 	display: block;
 	font-size: 16px;
 	line-height: 25px;
-	color:#e0ebaf;
+	color:#666666;
 }
 
 .sign.text-center {
